@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaIO_Odev4", "KodlamaIO_Odev4.csproj", "{99BEE0C7-F313-4B07-9293-AFDE6900F78D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BEE0C7-F313-4B07-9293-AFDE6900F78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BEE0C7-F313-4B07-9293-AFDE6900F78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BEE0C7-F313-4B07-9293-AFDE6900F78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BEE0C7-F313-4B07-9293-AFDE6900F78D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FAE077F-6778-4727-BECB-C57465D47B51}
+	EndGlobalSection
+EndGlobal
